@@ -1,0 +1,24 @@
+{
+  "name": "az-kv-configured-aws",
+  "version": "1.0.0",
+  "description": "Get configured AWS library with credentials from Azure Key Vault",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopuff/az-kv-configured-aws.git"
+  },
+  "author": "tech@gopuff.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gopuff/az-kv-configured-aws/issues"
+  },
+  "homepage": "https://github.com/gopuff/az-kv-configured-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.374.0",
+    "azure-keyvault": "^3.0.4",
+    "ms-rest-azure": "^2.5.9"
+  }
+}

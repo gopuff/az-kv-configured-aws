@@ -7,6 +7,12 @@ insetad.
 
 ## Usage
 
+Install the package:
+```
+npm install az-kv-configured-aws
+```
+
+Then, in your app:
 ```
 const awsFactory = require('az-kv-configured-aws').withPrefix('sample-prefix', 'my-vault-name')
 

@@ -1,6 +1,6 @@
 {
   "name": "az-kv-configured-aws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get configured AWS library with credentials from Azure Key Vault",
   "main": "index.js",
   "scripts": {

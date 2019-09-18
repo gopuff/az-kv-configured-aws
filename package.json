@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/gopuff/az-kv-configured-aws#readme",
   "dependencies": {
-    "aws-sdk": "^2.374.0",
-    "azure-keyvault": "^3.0.4",
-    "ms-rest-azure": "^2.5.9"
+    "aws-sdk": "^2.530.0",
+    "azure-keyvault": "^3.0.5",
+    "ms-rest-azure": "^2.6.0"
   }
 }

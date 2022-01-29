@@ -1,3 +1,5 @@
+# :warning: DEPRECATED REPO: DO NOT USE :warning:
+
 # az-kv-configured-aws
 
 Get a configured AWS library for a given role. Counts on entries in Azure Key Vault

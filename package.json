@@ -19,6 +19,6 @@
   "dependencies": {
     "aws-sdk": "^2.530.0",
     "azure-keyvault": "^3.0.5",
-    "ms-rest-azure": "^2.6.0"
+    "ms-rest-azure": "^2.6.2"
   }
 }
